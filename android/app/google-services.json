@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1096406200151",
+    "firebase_url": "https://tecin5mins.firebaseio.com",
+    "project_id": "tecin5mins",
+    "storage_bucket": "tecin5mins.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096406200151:android:332a0ec256e0e5dfe45812",
+        "android_client_info": {
+          "package_name": "flutterapp.sliit.tecin5mins"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096406200151-998mnnhk69qdbcqt0dh3eitvd8a2pjse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClCzrqXCmZcIam2OGsGs1-zx58QEulSYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096406200151-998mnnhk69qdbcqt0dh3eitvd8a2pjse.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
